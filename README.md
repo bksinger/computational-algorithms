@@ -1,5 +1,5 @@
-# computational-algorithms-assignments
-Assignments and projects based on courses and self-study
+# computational-algorithms
+Projects based on courses and self-study
 
 Online self-study courses (completed):
 1. [Algorithms: Divide & Conquor](https://www.coursera.org/learn/algorithms-divide-conquer/home/welcome)
